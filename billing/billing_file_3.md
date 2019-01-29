@@ -1,3 +1,10 @@
+---
+layout: default
+title: Billing
+nav_order: 3
+has_children: true
+permalink: /billing
+---
 # Billing Summary
 BriteCore features a customizable billing (account receivable) module that works in combination with payment processing, premium accounting, reporting, and settings to manage the entire billing and payment lifecycle of a policy. This module is available in all three of BriteCore's portals:
 

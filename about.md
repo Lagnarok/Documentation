@@ -1,5 +1,7 @@
 ---
 title: About
+layout: default
+nav_order: 2
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis leo tortor. Maecenas at turpis ultrices, congue nulla at, tempus dui. Integer scelerisque cursus lobortis. Etiam laoreet tempor mi vitae feugiat. Nullam elit purus, scelerisque et tortor sed, condimentum bibendum elit. Donec ornare ornare mi, quis iaculis nisl consectetur in. Ut sem sapien, vulputate non orci sit amet, viverra tristique felis. Nunc nec sapien venenatis, porta neque quis, vestibulum diam. Aenean fringilla, lorem in tincidunt fringilla, ante neque aliquam quam, ac eleifend diam purus id erat. Aenean auctor elit in mi eleifend eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent suscipit sit amet nisl et malesuada.
 
